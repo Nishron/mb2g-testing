@@ -3,7 +3,7 @@ package guru.springframework;
 public class JavaHelloWorld {
 
     public String getHello() {
-        return "HelloWorld";
+        return "Hello World";
     }
 
 }
